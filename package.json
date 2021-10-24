@@ -1,5 +1,5 @@
 {
-  "name": "test-prisma",
+  "name": "test-prisma-nestjs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,15 +22,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cloudofgeorge/test-prisma.git"
+    "url": "git+https://github.com/cloudofgeorge/test-prisma-nestjs.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cloudofgeorge/test-prisma/issues"
+    "url": "https://github.com/cloudofgeorge/test-prisma-nestjs/issues"
   },
-  "homepage": "https://github.com/cloudofgeorge/test-prisma#readme",
+  "homepage": "https://github.com/cloudofgeorge/test-prisma-nestjs#readme",
   "devDependencies": {
     "@nestjs/cli": "^8.0.0",
     "@nestjs/schematics": "^8.0.0",
